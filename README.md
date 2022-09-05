@@ -3,11 +3,12 @@ Foodies
 
 ## Table of Contents
 1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
+2. [Product Spec](#Product-Spec)
+3. [Wireframes](#Wireframes)
 
 ## Overview
 #### Foodies helps users meet fellow food-lovers along their gourmet journeys.
+See the demo slides [here](https://docs.google.com/presentation/d/1x68MJxXF_cBaYugRGy35FV2psd7FQWiIq5eW2Y9HC0I/edit?usp=sharing)
 
 
 ### App Evaluation
