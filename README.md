@@ -1,7 +1,5 @@
-Unit 5: Group Milestone - Foodies
+Foodies
 ===
-
-# Foodies
 
 ## Table of Contents
 1. [Overview](#Overview)
